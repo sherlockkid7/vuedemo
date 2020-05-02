@@ -1,0 +1,10 @@
+[
+    {"menuName":"公司通告","imgUrl":"@/assets/images/tall.png","url":"/notice"},
+    {"menuName":"进店拜访","imgUrl":"@/assets/images/shop.png","url":"/notice"},
+    {"menuName":"电话订单","imgUrl":"@/assets/images/order.png","url":"/notice"},
+    {"menuName":"订单状态","imgUrl":"@/assets/images/status.png","url":"/notice"},
+    {"menuName":"培训资料","imgUrl":"@/assets/images/read.png","url":"/notice"},
+    {"menuName":"消息中心","imgUrl":"@/assets/images/news.png","url":"/notice"},
+    {"menuName":"新增项目","imgUrl":"@/assets/images/demo.png","url":"/notice"},
+    {"menuName":"LIKE","imgUrl":"@/assets/images/like.png","url":"/notice"}
+]
